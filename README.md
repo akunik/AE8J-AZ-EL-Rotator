@@ -3,4 +3,4 @@ Azimuth &amp; Elevation antenna rotator for satellite tracking. Rotator is compl
 Stepper motors are 23HE22-2804S with a holding torque of .9 ft-lb. 3D printed 50:1 split ring planetary gear reducers are used in each axis. An additional 
 2:1 spur gear reduction increases the theoretical holding torque to 90 ft-lbs.
 
-Rotator controller uses an Arduino mega 2560 and is driven by the K3NG code.
+Rotator controller uses an Arduino mega 2560 and is driven by the K3NG AZ EL Rotator code.
