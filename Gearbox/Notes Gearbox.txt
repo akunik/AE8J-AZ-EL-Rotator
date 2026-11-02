@@ -1,0 +1,5 @@
+Notes:
+
+The 50:1 Planetary split ring gearbox is probably the most challenging part of this project. Parts are designed for maximum backlash elimination. This requires tight tolerances for many components. Assembly can be difficult. Because of variations in different filaments, printer settings and even between different 3D printers, some diameters may need to be adjusted for best fit and performance. 
+
+Internal components in the Azimuth and Elevation subassemblies are idenical, except for the main shafts. Two identical gearboxes are needed. Each gearbox uses four planetary gears. The planetary gears require timing. When assembling the gearboxes be sure that the planetary gears are evenly spaced and lines on the planetary gears all point in the same direction. 
