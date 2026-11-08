@@ -1,0 +1,21 @@
+Maximum backlash elimination requires tight tolerances for many components. Especially in the planetary gear boxes. Variations in different filaments and settings, as well as variations in different 3D printers, require that some diameters may need to be adjusted for best performance. 
+
+
+Heatset inserts are not standardized. You may need to resize hole dimeters below to fit your brand of inserts.
+
+M3 heatset hole diameter = 4.1mm (.160")
+M4 heatset hole diameter = 5.1mm (.200")
+
+Bearings:
+6810 50mm I.D. x 65mm O.D. x 7mm  Four required
+6003 17mm I.D. x 35mm O.D. x 10mm  Two required
+
+Potentiometer
+Bourns 3590S 500 Ohm 10 turn Two required
+
+Keystone Jack
+RJ45 Four required
+
+NEMA 23 Stepper Motor
+23HE22-2804S Two required
+
